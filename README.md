@@ -1,5 +1,5 @@
-#Este é um projeto em Python para analisar as informações e tabelas geradas pelo moodle.
-## Ele foi feito no google.colab para facilitar o compartilhamento de informações
+##Este é um projeto em Python para analisar as informações e tabelas geradas pelo moodle.
+# Ele foi feito no google.colab para facilitar o compartilhamento de informações
 
 A tabela "Log" rastreia os passos de qualquer pessoa inscrita em um curso do Moodle. 
 
